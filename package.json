@@ -1,0 +1,14 @@
+{
+  "name": "greenproductive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "kaishwarya",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^37.1.0"
+  }
+}

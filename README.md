@@ -6,8 +6,8 @@ GreenProductive is a real-time, visually engaging to-do list app designed and bu
 
 ## 🚀 Features
 
-- **Live To-Do List:** Add, complete, and manage tasks in real time.
-- **Custom UI:Unique, hand-crafted interface for a pleasant productivity experience.
+- **Live To-Do List:**  Add, complete, and manage tasks in real time.
+- **Custom UI:** Unique, hand-crafted interface for a pleasant productivity experience.
 - **Progress Tracking:** Visual progress bar updates automatically as you complete tasks.
 - **Daily Achievement:** Finish your day with a summary of your accomplishments.
 
@@ -24,4 +24,24 @@ GreenProductive is a real-time, visually engaging to-do list app designed and bu
 
 ## 📦 Installation
 
-1. **Clone the repository:**
+1. **Clone the repository:** git clone https://github.com/ayeshwaryaa/Green-Productive.git cd GreenProductiveApp
+2. **Install dependencies:** npm install
+3. **Install Electron (if not already installed):** npm install –save-dev electron
+
+---
+
+## ▶️ Usage
+
+- **Add Tasks:** Type your task in the input field and click the “+” button.
+- **Mark as Complete:** Click a task to mark it as done; it will be crossed out.
+- **Track Progress:** The progress bar updates as you complete tasks.
+- **Finish Your Day:** Click the “Finish” button to see your daily achievement score.
+
+To start the application, run:
+npm start
+
+---
+
+**Happy coding and stay productive!**
+
+

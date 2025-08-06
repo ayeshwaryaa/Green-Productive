@@ -25,7 +25,8 @@ GreenProductive is a real-time, visually engaging to-do list app designed and bu
 ## 📦 Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/ayeshwaryaa/Green-Productive.git cd GreenProductiveApp
+   git clone https://github.com/ayeshwaryaa/Green-Productive.git
+   cd GreenProductiveApp
 3. **Install dependencies:**
    npm install
 4. **Install Electron (if not already installed):**
